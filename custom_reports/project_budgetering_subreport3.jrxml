@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="project_budgetering_subreport3" language="groovy" pageWidth="802" pageHeight="555" orientation="Landscape" columnWidth="802" leftMargin="0" rightMargin="0" topMargin="0" bottomMargin="0" isIgnorePagination="true" uuid="71fbb27e-3ec8-4e7f-abc4-601003a37ffd">
+	<property name="ireport.zoom" value="1.610510000000001"/>
+	<property name="ireport.x" value="0"/>
+	<property name="ireport.y" value="0"/>
+	<parameter name="ProjectCode" class="java.lang.Integer" isForPrompting="false"/>
+	<queryString language="xPath">
+		<![CDATA[]]>
+	</queryString>
+	<field name="id" class="java.lang.Integer">
+		<fieldDescription><![CDATA[/data/record/Generated_Analytic_Field-a1_id/id]]></fieldDescription>
+	</field>
+	<field name="Number-number" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/Invoice_Reference-invoice_id/Number-number]]></fieldDescription>
+	</field>
+	<filterExpression><![CDATA[$F{id} == $P{ProjectCode}]]></filterExpression>
+	<title>
+		<band height="20" splitType="Stretch">
+			<staticText>
+				<reportElement uuid="5337ed90-caeb-4359-981b-76fb5e25886d" x="100" y="0" width="702" height="20"/>
+				<textElement textAlignment="Center"/>
+				<text><![CDATA[Invoice Overview]]></text>
+			</staticText>
+			<textField>
+				<reportElement uuid="076853ab-c8c6-4033-8848-d9c9c3435c51" x="0" y="0" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$P{ProjectCode}]]></textFieldExpression>
+			</textField>
+		</band>
+	</title>
+	<columnHeader>
+		<band height="20" splitType="Stretch">
+			<staticText>
+				<reportElement uuid="b25c3ef2-e1b0-467d-94cb-1ae8fa39f17b" x="100" y="0" width="247" height="20"/>
+				<textElement/>
+				<text><![CDATA[/data/record/Generated_Analytic_Field-a1_id/id]]></text>
+			</staticText>
+			<staticText>
+				<reportElement uuid="b6bf082f-fbf3-404d-bb39-bb4cc2c80197" x="0" y="0" width="100" height="20"/>
+				<textElement/>
+				<text><![CDATA[/data/record/Invoice_Reference-invoice_id/Number-number]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="20" splitType="Stretch">
+			<textField>
+				<reportElement uuid="b9791f8f-9496-4c89-a9ee-c3dc6bca07ff" x="100" y="0" width="247" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement uuid="4221fbb3-38a6-4576-a122-5a698f8cea68" x="0" y="0" width="100" height="20"/>
+				<textElement/>
+				<textFieldExpression><![CDATA[$F{Number-number}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+</jasperReport>

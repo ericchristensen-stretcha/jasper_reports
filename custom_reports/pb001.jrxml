@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Created with Jaspersoft Studio version 6.3.1.final using JasperReports Library version 6.3.1  -->
+<!-- 2016-12-15T21:44:17 -->
+<jasperReport xmlns="http://jasperreports.sourceforge.net/jasperreports" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports http://jasperreports.sourceforge.net/xsd/jasperreport.xsd" name="pb001" pageWidth="842" pageHeight="595" orientation="Landscape" columnWidth="802" leftMargin="20" rightMargin="20" topMargin="20" bottomMargin="20" uuid="eb589cf9-5979-4d3f-ab9e-632feb2bc73b">
+	<property name="com.jaspersoft.studio.data.defaultdataadapter" value="AML Potemkino"/>
+	<subDataset name="Dataset1" uuid="68e505a9-4d55-4957-a862-ce2778dc076e">
+		<property name="com.jaspersoft.studio.data.defaultdataadapter" value="Account Invoice"/>
+		<queryString language="XPath">
+			<![CDATA[]]>
+		</queryString>
+		<field name="id" class="java.lang.String">
+			<fieldDescription><![CDATA[/data/record/id]]></fieldDescription>
+		</field>
+		<field name="Number-number" class="java.lang.String">
+			<fieldDescription><![CDATA[/data/record/Number-number]]></fieldDescription>
+		</field>
+		<field name="Name-name" class="java.lang.String">
+			<fieldDescription><![CDATA[/data/record/Partner-partner_id/Name-name]]></fieldDescription>
+		</field>
+	</subDataset>
+	<parameter name="Dataset1" class="net.sf.jasperreports.engine.JRDataSource"/>
+	<queryString language="xPath">
+		<![CDATA[]]>
+	</queryString>
+	<field name="id" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/id]]></fieldDescription>
+	</field>
+	<field name="Name-name" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/Name-name]]></fieldDescription>
+	</field>
+	<field name="Code-code" class="java.lang.String">
+		<fieldDescription><![CDATA[/data/record/Account-account_id/Code-code]]></fieldDescription>
+	</field>
+	<background>
+		<band splitType="Stretch"/>
+	</background>
+	<title>
+		<band height="30" splitType="Stretch">
+			<staticText>
+				<reportElement x="330" y="0" width="100" height="30" uuid="dea7d17f-9961-4e41-acaa-a4f9bc5a11ff"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+		</band>
+	</title>
+	<pageHeader>
+		<band height="35" splitType="Stretch"/>
+	</pageHeader>
+	<columnHeader>
+		<band height="30" splitType="Stretch">
+			<staticText>
+				<reportElement x="0" y="0" width="100" height="30" uuid="d0ab2e23-3e12-400c-98ef-c2dd6e201bde"/>
+				<text><![CDATA[id]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="100" y="0" width="100" height="30" uuid="362987c4-16c5-4d96-9687-77bfd61c0eaa"/>
+				<text><![CDATA[Name-name]]></text>
+			</staticText>
+			<staticText>
+				<reportElement x="200" y="0" width="100" height="30" uuid="36a17c81-100b-4282-8bae-0c62efbe99a4"/>
+				<text><![CDATA[Code-code]]></text>
+			</staticText>
+		</band>
+	</columnHeader>
+	<detail>
+		<band height="30" splitType="Stretch">
+			<textField>
+				<reportElement x="0" y="0" width="100" height="30" uuid="b5dc23ae-d625-4b90-a332-f44a81ffbabd"/>
+				<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="100" y="0" width="100" height="30" uuid="1221a9c3-2819-4783-839d-ba9ad46cceb0"/>
+				<textFieldExpression><![CDATA[$F{Name-name}]]></textFieldExpression>
+			</textField>
+			<textField>
+				<reportElement x="200" y="0" width="100" height="30" uuid="a25dbf0b-5b53-4ec2-9cba-87881b61aa06"/>
+				<textFieldExpression><![CDATA[$F{Code-code}]]></textFieldExpression>
+			</textField>
+		</band>
+	</detail>
+	<columnFooter>
+		<band height="55" splitType="Stretch">
+			<staticText>
+				<reportElement mode="Opaque" x="0" y="0" width="800" height="30" backcolor="#E0C2C1" uuid="40e79417-0b81-4ad7-aa37-5929c687706a"/>
+				<text><![CDATA[Static Text]]></text>
+			</staticText>
+		</band>
+	</columnFooter>
+	<pageFooter>
+		<band height="54" splitType="Stretch"/>
+	</pageFooter>
+	<summary>
+		<band height="207" splitType="Stretch">
+			<componentElement>
+				<reportElement mode="Opaque" x="0" y="0" width="800" height="60" backcolor="#AABAE6" uuid="7f736a51-14c4-4b7e-8950-2c03e465673a">
+					<property name="OPENERP_MODEL" value="account.invoice"/>
+				</reportElement>
+				<jr:list xmlns:jr="http://jasperreports.sourceforge.net/jasperreports/components" xsi:schemaLocation="http://jasperreports.sourceforge.net/jasperreports/components http://jasperreports.sourceforge.net/xsd/components.xsd">
+					<datasetRun subDataset="Dataset1" uuid="2b7d8ff4-5089-4e5a-a3f3-79d1d9fcad8e">
+						<dataSourceExpression><![CDATA[$P{Dataset1}]]></dataSourceExpression>
+					</datasetRun>
+					<jr:listContents height="60" width="800">
+						<textField>
+							<reportElement x="0" y="0" width="100" height="30" uuid="7a381fe2-d6b5-4d06-8c3a-9f2169c7ca1b"/>
+							<textFieldExpression><![CDATA[$F{id}]]></textFieldExpression>
+						</textField>
+						<textField>
+							<reportElement x="100" y="0" width="100" height="30" uuid="12f6dd94-8bbf-491f-bfc7-b91807e80dc8"/>
+							<textFieldExpression><![CDATA[$F{Number-number}]]></textFieldExpression>
+						</textField>
+						<staticText>
+							<reportElement x="690" y="10" width="100" height="30" uuid="17e95988-a710-49aa-8eb0-bd6b5eb58641"/>
+							<text><![CDATA[Static Text]]></text>
+						</staticText>
+						<textField>
+							<reportElement x="200" y="0" width="100" height="30" uuid="12650eae-a9c5-4e31-9f13-d297ae736685"/>
+							<textFieldExpression><![CDATA[$F{Name-name}]]></textFieldExpression>
+						</textField>
+					</jr:listContents>
+				</jr:list>
+			</componentElement>
+		</band>
+	</summary>
+</jasperReport>

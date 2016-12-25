@@ -1,0 +1,424 @@
+42456248 [XML-RPC-0] DEBUG org.apache.xmlrpc.server.XmlRpcStreamServer - execute: ->
+42456258 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 1: created for project_budgetering
+42456259 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: GRP1,bandType: GROUP_HEADER} for band 166730098
+42456259 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: GRP1,bandType: GROUP_FOOTER} for band 1276642014
+42456259 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: null,bandType: TITLE} for band 808120599
+42456259 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: null,bandType: COLUMN_HEADER} for band 53896257
+42456260 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: null,bandType: DETAIL} for band 1243070144
+42456260 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: null, groupName: null,bandType: SUMMARY} for band 1150409357
+42456260 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 1 - pageHeight: 595, columnFooterOffsetY: 575, lastPageColumnFooterOffsetY: 575
+42456260 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 1: filling report
+42456260 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 1 - pageHeight: 2147483647, columnFooterOffsetY: 2147483627, lastPageColumnFooterOffsetY: 2147483627
+42456275 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 1: adding page 1
+42456275 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: title at 20
+42456275 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.SimpleTextLineWrapper - creating element font infos cache of size 2000
+42456276 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@23b5af7b
+42456276 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: column header at 40
+42456278 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@6d13c68d
+42456278 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@6d13c68d for object net.sf.jasperreports.engine.fill.JRTemplateText@2d508aed
+42456278 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@6d13c68d for object net.sf.jasperreports.engine.fill.JRTemplateText@2d0e4d9
+42456278 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: GRP1 header at 60
+42456278 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 78
+42456279 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@58456d6e
+42456279 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@58456d6e for object net.sf.jasperreports.engine.fill.JRTemplateText@36137e08
+42456279 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@58456d6e for object net.sf.jasperreports.engine.fill.JRTemplateText@39b75af4
+42456279 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 98
+42456280 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 118
+42456280 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 138
+42456280 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 158
+42456281 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 178
+42456281 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 198
+42456282 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 218
+42456282 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 238
+42456282 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 258
+42456283 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 278
+42456283 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 298
+42456284 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 318
+42456284 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 338
+42456285 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 358
+42456285 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 378
+42456286 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 398
+42456286 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 418
+42456287 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 438
+42456287 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 458
+42456288 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 478
+42456288 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 498
+42456288 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 518
+42456289 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 538
+42456289 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 558
+42456290 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 578
+42456290 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 598
+42456291 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 618
+42456291 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 638
+42456291 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 658
+42456292 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 678
+42456292 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 698
+42456293 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 718
+42456293 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 738
+42456293 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 758
+42456294 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 778
+42456294 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 798
+42456295 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 818
+42456295 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 838
+42456296 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 858
+42456296 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 878
+42456296 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 898
+42456297 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 918
+42456297 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 938
+42456298 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 958
+42456298 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 978
+42456299 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 998
+42456299 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1018
+42456300 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1038
+42456300 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1058
+42456301 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1078
+42456301 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1098
+42456302 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1118
+42456302 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1138
+42456302 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1158
+42456303 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1178
+42456303 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1198
+42456304 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1218
+42456304 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1238
+42456305 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1258
+42456305 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1278
+42456305 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1298
+42456306 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1318
+42456306 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1338
+42456307 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1358
+42456307 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1378
+42456308 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1398
+42456308 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1418
+42456309 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1438
+42456309 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1458
+42456309 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1478
+42456310 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1498
+42456310 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1518
+42456311 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1538
+42456311 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1558
+42456312 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1578
+42456312 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1598
+42456312 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1618
+42456313 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1638
+42456313 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: detail at 1658
+42456314 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: GRP1 footer at 1678
+42456320 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: creating subreport filler
+42456320 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 2: created for project_budgetering_subreport2
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport2, groupName: null,bandType: TITLE} for band 1953769013
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport2, groupName: null,bandType: COLUMN_HEADER} for band 1203444049
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport2, groupName: null,bandType: DETAIL} for band 785646603
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 2 - pageHeight: 555, columnFooterOffsetY: 555, lastPageColumnFooterOffsetY: 555
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.ThreadPoolSubreportRunnerFactory - created subreports thread executor java.util.concurrent.ThreadPoolExecutor@61558631[Running, pool size = 0, active threads = 0, queued tasks = 0, completed tasks = 0] for project_budgetering
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 2 - pageHeight: 2147481929, columnFooterOffsetY: 2147481929, lastPageColumnFooterOffsetY: 2147481929
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: starting 2
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.ThreadExecutorSubreportRunner - Fill 2: starting
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.ThreadPoolSubreportRunnerFactory - created thread Thread[project_budgetering subreports #1,5,XML-RPC]
+42456321 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 2: waiting for fill result
+42456322 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 2: filling report
+42456322 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 2 - pageHeight: 2147483647, columnFooterOffsetY: 2147483647, lastPageColumnFooterOffsetY: 2147483647
+42456323 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: title at 0
+42456323 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@758c7c02
+42456323 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: column header at 20
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@5a21a398
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@5a21a398 for object net.sf.jasperreports.engine.fill.JRTemplateText@567b7e62
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 42
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@45a68049
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@45a68049 for object net.sf.jasperreports.engine.fill.JRTemplateText@36305c58
+42456324 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 63
+42456325 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 84
+42456325 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 105
+42456325 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 126
+42456325 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 147
+42456326 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 168
+42456326 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 189
+42456326 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 210
+42456327 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 231
+42456327 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 252
+42456327 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 273
+42456327 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 294
+42456328 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 315
+42456328 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 336
+42456328 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 357
+42456328 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 378
+42456329 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 399
+42456329 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 420
+42456331 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 441
+42456331 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 462
+42456331 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 483
+42456332 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 504
+42456332 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 525
+42456332 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 546
+42456333 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 567
+42456333 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 588
+42456333 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 609
+42456333 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 630
+42456334 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 651
+42456334 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 672
+42456334 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 693
+42456335 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 714
+42456335 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 735
+42456335 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 756
+42456335 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 777
+42456336 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 798
+42456336 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 819
+42456336 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 840
+42456337 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 861
+42456337 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 882
+42456337 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 903
+42456337 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 924
+42456338 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 945
+42456338 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 966
+42456338 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 987
+42456339 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1008
+42456341 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1029
+42456341 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1050
+42456342 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1071
+42456342 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1092
+42456343 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1113
+42456343 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1134
+42456343 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1155
+42456344 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1176
+42456344 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1197
+42456344 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1218
+42456345 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1239
+42456345 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1260
+42456345 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1281
+42456345 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1302
+42456346 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1323
+42456346 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1344
+42456346 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1365
+42456347 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1386
+42456353 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1407
+42456354 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1428
+42456354 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1449
+42456354 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1470
+42456355 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1491
+42456355 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1512
+42456355 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1533
+42456355 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1554
+42456356 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1575
+42456356 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1596
+42456356 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1617
+42456357 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1638
+42456357 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1659
+42456357 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1680
+42456358 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 2: detail at 1701
+42456358 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 2: ended
+42456358 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 2: notifying of completion
+42456358 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 2: notified of fill result
+42456358 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: subreport 2 finished
+42456358 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@31239c31
+42456359 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@18e36e2b
+42456359 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateRectangle@7b55d5d0
+42456359 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 1: summary at 3420
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: creating subreport filler
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 3: created for project_budgetering_subreport3
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport3, groupName: null,bandType: TITLE} for band 1905659050
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport3, groupName: null,bandType: COLUMN_HEADER} for band 1468052122
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillBand - Origin {reportName: project_budgetering_subreport3, groupName: null,bandType: DETAIL} for band 891233229
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 3 - pageHeight: 555, columnFooterOffsetY: 555, lastPageColumnFooterOffsetY: 555
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 3 - pageHeight: 2147480184, columnFooterOffsetY: 2147480184, lastPageColumnFooterOffsetY: 2147480184
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: starting 3
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.ThreadExecutorSubreportRunner - Fill 3: starting
+42456366 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 3: waiting for fill result
+42456366 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 3: filling report
+42456367 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Filler 3 - pageHeight: 2147483647, columnFooterOffsetY: 2147483647, lastPageColumnFooterOffsetY: 2147483647
+42456367 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: title at 0
+42456367 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@1321a9e0
+42456367 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@717baf0
+42456367 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: column header at 20
+42456369 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@26f1e633
+42456369 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@26f1e633 for object net.sf.jasperreports.engine.fill.JRTemplateText@5340323e
+42456369 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 40
+42456369 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@1ba2af25
+42456370 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Found existing instance net.sf.jasperreports.engine.fill.JRTemplateText@1ba2af25 for object net.sf.jasperreports.engine.fill.JRTemplateText@5598b44f
+42456370 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 60
+42456370 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 80
+42456373 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 100
+42456373 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 120
+42456374 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 140
+42456374 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 160
+42456375 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 180
+42456375 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 200
+42456375 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 220
+42456375 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 240
+42456376 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 260
+42456376 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 280
+42456376 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 300
+42456377 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 320
+42456377 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 340
+42456377 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 360
+42456384 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 380
+42456385 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 400
+42456385 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 420
+42456385 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 440
+42456385 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 460
+42456386 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 480
+42456386 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 500
+42456386 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 520
+42456387 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 540
+42456387 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 560
+42456387 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 580
+42456387 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 600
+42456388 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 620
+42456388 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 640
+42456388 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 660
+42456389 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 680
+42456389 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 700
+42456389 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 720
+42456389 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 740
+42456390 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 760
+42456390 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 780
+42456390 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 800
+42456391 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 820
+42456391 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 840
+42456391 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 860
+42456391 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 880
+42456392 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 900
+42456392 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 920
+42456392 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 940
+42456392 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 960
+42456393 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 980
+42456393 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1000
+42456393 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1020
+42456394 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1040
+42456394 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1060
+42456394 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1080
+42456394 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1100
+42456395 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1120
+42456395 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1140
+42456395 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1160
+42456396 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1180
+42456396 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1200
+42456396 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1220
+42456396 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1240
+42456397 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1260
+42456397 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1280
+42456397 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1300
+42456397 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1320
+42456398 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1340
+42456398 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1360
+42456398 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1380
+42456399 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1400
+42456399 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1420
+42456399 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1440
+42456399 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1460
+42456400 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1480
+42456400 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1500
+42456400 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1520
+42456401 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1540
+42456401 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1560
+42456401 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1580
+42456401 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1600
+42456402 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1620
+42456402 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1640
+42456402 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1660
+42456402 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1680
+42456403 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1700
+42456403 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1720
+42456403 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1740
+42456404 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1760
+42456404 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1780
+42456404 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1800
+42456404 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1820
+42456405 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1840
+42456405 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1860
+42456405 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1880
+42456405 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1900
+42456406 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1920
+42456406 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1940
+42456406 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1960
+42456407 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 1980
+42456407 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2000
+42456407 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2020
+42456407 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2040
+42456408 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2060
+42456408 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2080
+42456408 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2100
+42456409 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2120
+42456409 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2140
+42456409 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2160
+42456409 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2180
+42456410 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2200
+42456410 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2220
+42456410 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2240
+42456410 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2260
+42456411 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2280
+42456411 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2300
+42456411 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2320
+42456412 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2340
+42456412 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2360
+42456412 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2380
+42456412 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2400
+42456413 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2420
+42456413 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2440
+42456413 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2460
+42456414 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2480
+42456414 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2500
+42456414 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2520
+42456414 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2540
+42456415 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2560
+42456415 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2580
+42456415 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2600
+42456415 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2620
+42456416 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2640
+42456416 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2660
+42456416 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2680
+42456417 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2700
+42456417 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2720
+42456417 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2740
+42456448 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2760
+42456448 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2780
+42456449 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2800
+42456449 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2820
+42456449 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2840
+42456449 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2860
+42456450 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2880
+42456450 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2900
+42456450 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2920
+42456450 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2940
+42456451 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2960
+42456451 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 2980
+42456451 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3000
+42456452 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3020
+42456452 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3040
+42456452 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3060
+42456452 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3080
+42456453 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3100
+42456453 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3120
+42456453 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3140
+42456453 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3160
+42456454 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3180
+42456454 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3200
+42456454 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3220
+42456455 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3240
+42456455 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3260
+42456455 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3280
+42456455 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3300
+42456456 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3320
+42456456 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3340
+42456456 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3360
+42456456 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3380
+42456457 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3400
+42456457 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3420
+42456471 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3440
+42456472 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3460
+42456472 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3480
+42456472 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3500
+42456472 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3520
+42456473 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3540
+42456473 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3560
+42456473 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3580
+42456474 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3600
+42456474 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3620
+42456474 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRVerticalFiller - Fill 3: detail at 3640
+42456474 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 3: ended
+42456474 [project_budgetering subreports #1] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 3: notifying of completion
+42456477 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.AbstractThreadSubreportRunner - Fill 3: notified of fill result
+42456477 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRFillSubreport - Fill 1: subreport 3 finished
+42456480 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateText@6f33e6ac
+42456481 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.util.DeduplicableRegistry - Added object net.sf.jasperreports.engine.fill.JRTemplateRectangle@5af4972b
+42456486 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.JRBaseFiller - Fill 1: ended
+42456486 [XML-RPC-0] DEBUG net.sf.jasperreports.engine.fill.ThreadPoolSubreportRunnerFactory - shutting down java.util.concurrent.ThreadPoolExecutor@61558631[Running, pool size = 1, active threads = 0, queued tasks = 0, completed tasks = 2]
+42456666 [XML-RPC-0] DEBUG org.apache.xmlrpc.server.XmlRpcStreamServer - execute: Request performed successfully
+42456666 [XML-RPC-0] DEBUG org.apache.xmlrpc.server.XmlRpcStreamServer - execute: <-
